@@ -56,7 +56,13 @@ StudyMate AI provides:
 - “Explain recursion like I’m a beginner”  
 - “Give me study tips for computer science exams”  
 - “Summarize photosynthesis in simple words”  
-- “How can I study effectively with limited time?”  
+- “How can I study effectively with limited time?”
+- "What is the difference between hardware and software in simple terms?"
+- "Explain what an operating system does using an easy example."
+- "What is an exam revision plan for one week?"
+- "Explain the concept of variables as if I have never coded before."
+- "How can I stay focused while studying at home?"
+- "What are effective note-taking methods for students?"
 
 ---
 
@@ -73,9 +79,3 @@ StudyMate AI provides:
 
 This project is being developed as part of the **Building AI Applications Challenge 2026**, organized by **Decoding Data Science (DDS)**.
 
----
-
-## Links
-
-- **AIRIA Chat Demo:** Internal Playground  
-- **GitHub Repository:** This repository  
