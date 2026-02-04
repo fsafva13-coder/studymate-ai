@@ -75,6 +75,15 @@ StudyMate AI provides:
 
 ---
 
+## Progress Update (Day 4)
+
+- Refined the system prompt based on testing results
+- Evaluated AI responses for clarity, structure, and beginner-friendliness
+- Added safety and validation rules within the no-code workflow
+- Improved response consistency through prompt iteration
+
+---
+
 ## Challenge Context
 
 This project is being developed as part of the **Building AI Applications Challenge 2026**, organized by **Decoding Data Science (DDS)**.
