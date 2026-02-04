@@ -84,6 +84,15 @@ StudyMate AI provides:
 
 ---
 
+## Progress Update (Day 5)
+
+- Integrated the AI logic with a user-facing chat interface using AIRIA
+- Verified end-to-end interaction from user input to AI response
+- Improved system prompt for better UX, clarity, and validation handling
+- Tested the interface with multiple user scenarios and edge cases
+
+---
+
 ## Challenge Context
 
 This project is being developed as part of the **Building AI Applications Challenge 2026**, organized by **Decoding Data Science (DDS)**.
