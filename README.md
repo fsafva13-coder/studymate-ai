@@ -126,6 +126,12 @@ This project focuses on clarity, usability, and responsible AI behavior rather t
 
 ---
 
+## Visual References
+
+All screenshot evidence supporting Day 2–7 progress is available in the `screenshots/` directory.
+
+---
+
 ## Challenge Context
 
 This project is being developed as part of the **Building AI Applications Challenge 2026**, organized by **Decoding Data Science (DDS)**.
