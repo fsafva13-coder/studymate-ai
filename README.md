@@ -103,6 +103,29 @@ StudyMate AI provides:
 
 ---
 
+## Project Update (Day 7 – Final Review)
+
+### Current Capabilities
+- Accepts open-ended study questions
+- Provides simple explanations with examples
+- Offers study tips and motivation
+- Designed for non-technical users
+
+### Deployment
+- Platform: AIRIA (No-Code AI Agent)
+- Interface: Chat Widget + API
+- Status: Published (v2.0.0)
+
+### Demo & Evidence
+- Screenshots of working agent included
+- Explainer video recorded
+- GitHub used for documentation and proof-of-work
+
+### Notes
+This project focuses on clarity, usability, and responsible AI behavior rather than complex engineering.
+
+---
+
 ## Challenge Context
 
 This project is being developed as part of the **Building AI Applications Challenge 2026**, organized by **Decoding Data Science (DDS)**.
