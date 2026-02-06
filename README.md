@@ -93,7 +93,7 @@ StudyMate AI provides:
 
 ---
 
-## Day 6 – Final Enhancements & Security Review
+## Progress Update (Day 6)
 
 - Reviewed input handling and clarified accepted question formats
 - Added safety and validation logic through system prompt constraints
