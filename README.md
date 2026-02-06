@@ -93,6 +93,16 @@ StudyMate AI provides:
 
 ---
 
+## Day 6 – Final Enhancements & Security Review
+
+- Reviewed input handling and clarified accepted question formats
+- Added safety and validation logic through system prompt constraints
+- Verified API keys are securely managed within the platform (no secrets in repo)
+- Improved response consistency and clarity
+- Cleaned documentation and usage notes
+
+---
+
 ## Challenge Context
 
 This project is being developed as part of the **Building AI Applications Challenge 2026**, organized by **Decoding Data Science (DDS)**.
