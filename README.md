@@ -103,26 +103,31 @@ StudyMate AI provides:
 
 ---
 
-## Project Update (Day 7 – Final Review)
+## Project Update — (Day 7)
 
 ### Current Capabilities
-- Accepts open-ended study questions
-- Provides simple explanations with examples
-- Offers study tips and motivation
-- Designed for non-technical users
+
+- Accepts open-ended study-related questions
+- Provides clear, beginner-friendly explanations with simple examples
+- Offers practical study tips and motivational support
+- Designed for non-technical users with a chat-based interface
 
 ### Deployment
+
 - Platform: AIRIA (No-Code AI Agent)
 - Interface: Chat Widget + API
-- Status: Published (v2.0.0)
+- Status: Published and live (v2.0.0)
+- Demo URL: https://fsafva13-coder.github.io/studymate-ai/
 
 ### Demo & Evidence
-- Screenshots of working agent included
-- Explainer video recorded
-- GitHub used for documentation and proof-of-work
+
+- Screenshots of the working agent and interface included in the repository
+- Explainer video recorded describing the workflow, interface, and functionality
+- GitHub used as a central hub for documentation and proof-of-work
 
 ### Notes
-This project focuses on clarity, usability, and responsible AI behavior rather than complex engineering.
+
+This project prioritizes clarity, usability, and responsible AI behavior. The focus was on delivering a stable, supportive learning experience rather than implementing complex engineering features.
 
 ---
 
