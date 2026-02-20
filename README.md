@@ -126,7 +126,6 @@ StudyMate AI provides:
 - Platform: AIRIA (No-Code AI Agent)
 - Interface: Chat Widget + API
 - Status: Published and live (v2.0.0)
-- Demo URL: https://fsafva13-coder.github.io/studymate-ai/
 
 ### Demo & Evidence
 
