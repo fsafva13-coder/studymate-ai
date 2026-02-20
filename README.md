@@ -6,6 +6,15 @@ The project focuses on helping students understand academic concepts more clearl
 
 ---
 
+## 🏆 Achievement
+
+This project secured **Second Prize in the AIRIA Track** and an overall **13th Rank among 576 participants**
+at the *Decoding Data Science AI Application Challenge 2026*.
+
+This was my first time building and deploying an AI application.
+
+---
+
 ## Problem
 
 Students often struggle with:
